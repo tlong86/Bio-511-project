@@ -12,7 +12,7 @@ Statistical methods:ANOVA
 List of assumptions: The patients are from the same age group with similar diets. no other diseasses are found in any of the patients
 
 
-Tests being performed: Kruskal–Wallis one-way ANOVA,  chi-square test, Zero-Inflated Poisson 
+Tests being performed: Kruskal–Wallis one-way ANOVA, Zero-Inflated Poisson 
 
 
 List of variables: Phylum of bacteria, genus of bacteria, abundance of bacteria in stool of control group, indeterminant, cardiac, and megacolon clinical forms of chagas disease
